@@ -2,7 +2,7 @@
 ### Hello there! 👋 Bem vindo ao meu perfil!😄
 
 - 🔭 Trabalhando com Front-End!
-- 🌱 Atualmente aprendendo Typescript!
+- 🌱 Atualmente aprendendo TypeScript!
 
  
 <div align="flex-start">
