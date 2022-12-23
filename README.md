@@ -3,7 +3,7 @@
 
 - 🔭 Trabalhando com Front-End!
 - 🌱 Atualmente aprendendo TypeScript!
-
+- :raising_hand_man: Em busca de uma oportunidade no mercado!
  
 <div align="flex-start">
   <a href="https://github.com/JeffOliveiraDev">
