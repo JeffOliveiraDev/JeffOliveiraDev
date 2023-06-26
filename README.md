@@ -1,7 +1,7 @@
 
 ### Hello there! 👋 Bem vindo ao meu perfil!😄
 
-- 🔭 Trabalhando com Front-End!
+- 🔭 Trabalhando com Desenvolvimento Full Stack!
 - 🌱 Atualmente aprendendo TypeScript!
 - :raising_hand_man: Em busca de uma oportunidade no mercado!
  
