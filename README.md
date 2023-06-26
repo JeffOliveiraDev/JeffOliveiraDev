@@ -2,7 +2,7 @@
 ### Hello there! 👋 Bem vindo ao meu perfil!😄
 
 - 🔭 Trabalhando com Desenvolvimento Full Stack!
-- 🌱 Atualmente aprendendo TypeScript!
+- 🌱 Atualmente aprendendo Next e Nest!
 - :raising_hand_man: Em busca de uma oportunidade no mercado!
  
 <div align="flex-start">
