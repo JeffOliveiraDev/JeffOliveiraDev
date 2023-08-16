@@ -1,12 +1,12 @@
 
 # Hello there! 👋 Bem vindo ao meu perfil!:mage:
 
-Sou formado em psicologia, fazendo a transição de carreira, atualmente sou desenvolvedor Full Stack, estudando Next.js,  Nest.js, Python e MachineLearning.
+Sou formado em psicologia, fazendo a transição de carreira.
 
 
-
-- 🔭 Trabalhando com Desenvolvimento Full Stack!
-- 🌱 Atualmente aprendendo Next.js, Nest.js, Python e MachineLearning!
+-  :books: Formado em FullStack pela Kenzie Academy 2000 horas(1 ano) e WebDesign pela Microcamp
+- 🔭 Trabalhando com Desenvolvimento Full Stack
+- 🌱 Atualmente aprendendo Next.js, Nest.js, Python e MachineLearning(DIO Pro)
 - :raising_hand_man: Em busca de uma oportunidade no mercado!
 - :running: Pratico lógica no LeetCode(antes era no CodeWars Kyu 5)
 
