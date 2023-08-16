@@ -1,15 +1,21 @@
-        
-### Hello there! 👋 Bem vindo ao meu perfil!😄
+
+# Hello there! 👋 Bem vindo ao meu perfil!:mage:
+
+Sou formado em psicologia, fazendo a transição de carreira, atualmente sou desenvolvedor Full Stack, estudando Next.js,  Nest.js, Python e MachineLearning.
+
+
 
 - 🔭 Trabalhando com Desenvolvimento Full Stack!
-- 🌱 Atualmente aprendendo NextJs e NestJs!
+- 🌱 Atualmente aprendendo Next.js, Nest.js, Python e MachineLearning!
 - :raising_hand_man: Em busca de uma oportunidade no mercado!
- 
-<div align="flex-start">
-  <a href="https://github.com/JeffOliveiraDev">
-  <img width="40%" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jeffoliveiradev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img width="40%" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JeffOliveiraDev&layout=compact&langs_count=7&theme=github_dark&include_all_commits=true&count_private=true"/>
-  
+- :running: Pratico lógica no LeetCode(antes era no CodeWars Kyu 5)
+
+## Stacks 
+
+**Front-end:** React, TypeScript, NextJS, JavaScript,  Radix, Redux, SASS/SCSS, StyledComponents, TailwindCSS, HTML, CSS
+
+**Back-end:** Node, Python, Express, NestJS, Prisma, PostGreSQL
+
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Jeff-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,14 +26,15 @@
   <img align="center" alt="Jeff-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" />
   
             
-          
-          
+       
   
 
 
   ##
   
  
+<div> 
+
 <div> 
   
 
